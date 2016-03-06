@@ -1,0 +1,2 @@
+# Stochastic-Card-Game
+This app is a simple computer game adaption of one of my favorite childhood card games, Xing. The purpose of the game is to give the player a chance to try his abilities against a computer that has different levels of difficulty. The game can be played by anyone who is looking to have some fun or just trying to spend some time. On the other hand experienced player who think they are very good at this game can try to play against the hard levels where they can be assured that it will not be easy at all.
